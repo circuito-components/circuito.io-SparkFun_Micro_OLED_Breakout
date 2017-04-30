@@ -9,7 +9,9 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
+#define MICROOLED_PIN_CS	4
+#define MICROOLED_PIN_RESET	3
+#define MICROOLED_PIN_DC	2
 
 // =======================Pin Definitions // ===================================
 
